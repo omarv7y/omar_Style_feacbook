@@ -14,6 +14,11 @@ pkg install git -y
 
 pkg install python3 -y
 
+
 git clone https://github.com/omarv7y/omar_Style_feacbook.git
 
 cd omar_Style_feacbook
+
+bash omar_Style.sh
+
+python3 omar_Style_feacbook.py
